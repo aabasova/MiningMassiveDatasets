@@ -6,7 +6,6 @@
 # Write executable code and test its correctness (either single program or several
 # ones). To generate initial RDDs you can use code from lecture one or from Spark
 # documentation. Submit as solution the source code and results of program runs.
-# TEST Lea
 
 from pyspark.context import SparkContext
 sc = SparkContext('local', 'test')
