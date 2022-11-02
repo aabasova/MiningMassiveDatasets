@@ -1,0 +1,1 @@
+print ('Uebung 2 Aufgabe 1')
